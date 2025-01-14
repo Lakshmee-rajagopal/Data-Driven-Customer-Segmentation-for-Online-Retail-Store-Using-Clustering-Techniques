@@ -51,3 +51,13 @@ The dataset includes the following key features:
 
 With a total of 541,909 instances and 6 primary features, the dataset provides rich insights for customer segmentation.
 
+# **Insights**
+
+* The clustering models successfully identified different customer segments based on purchasing behavior.
+
+* **Regular customers:** Represented by moderate transaction counts and spending (Clusters 0 and 1).
+
+* **High-value customers:** Identified in KMeans Cluster 2 and DBSCAN Cluster -1, representing customers with higher spending and quantities.
+
+* * These segments can help the business tailor marketing strategies, offer targeted promotions, or provide special services to high-value customers.
+
